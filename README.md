@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CptWasp or @blrmyfc on telegram or instagram
+- 👋 Hi, I’m Ayzat A. or @blrmyfc on telegram or instagram
 - 👀 I’m interested in серверах, веб-приложениях, мобильных приложениях и не только
 - 🌱 I’m currently learning flutter, dart
 - 💞️ I’m looking to collaborate on ... (не могу сказать)
